@@ -1,3 +1,15 @@
+<!-- BBN:HEADER:START -->
+<div align="center">
+
+<img src=".github/brand/banner.svg" width="100%" alt="Mini Cloth Shop — Beginner React clothing shop (course days 8–14)" />
+
+<a href="https://github.com/Boom-Vitt/mini_shop_day8-14-frontend-/stargazers"><img src="https://img.shields.io/github/stars/Boom-Vitt/mini_shop_day8-14-frontend-?style=flat-square&color=14b8a6&labelColor=0b1220" alt="stars" /></a>
+<a href="https://github.com/Boom-Vitt/mini_shop_day8-14-frontend-/commits/main"><img src="https://img.shields.io/github/last-commit/Boom-Vitt/mini_shop_day8-14-frontend-?style=flat-square&color=14b8a6&labelColor=0b1220" alt="last commit" /></a>
+<a href="https://github.com/Boom-Vitt"><img src="https://img.shields.io/badge/by-BoomBigNose-14b8a6?style=flat-square&labelColor=0b1220" alt="by BoomBigNose" /></a>
+
+</div>
+<!-- BBN:HEADER:END -->
+
 # 🛍️ Mini Cloth Shop - ร้านขายเสื้อผ้าออนไลน์
 
 โปรเจกต์นี้เป็นเว็บไซต์ร้านขายเสื้อผ้าออนไลน์ขนาดเล็ก ที่สร้างด้วย React สำหรับผู้เริ่มต้นเรียนรู้การพัฒนาเว็บไซต์
@@ -130,3 +142,15 @@ mini_cloth_shop/
 ---
 
 **หมายเหตุ**: โปรเจกต์นี้เป็นเพียงภาคที่ 1 ไม่ได้มีการเชื่อมต่อกับระบบชำระเงินจริง
+
+<!-- BBN:FOOTER:START -->
+---
+
+<div align="center">
+
+**สร้างโดย [BoomBigNose](https://github.com/Boom-Vitt)** · [Kruoop.com](https://kruoop.com) แหล่งเรียน AI + คอมมูนิตี้ · [Seeneo.ai](https://seeneo.ai) · [YouTube 220K](https://www.youtube.com/@BoomBigNose)
+
+<sub>ถ้าโปรเจกต์นี้มีประโยชน์ กด ⭐ ให้กำลังใจกันได้เลย</sub>
+
+</div>
+<!-- BBN:FOOTER:END -->
